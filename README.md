@@ -1,4 +1,4 @@
-davrononelove# 👩‍💻 justvixen7 - Backend Developer
+# 👩‍💻 justvixen7 - Backend Developer
 
 > "I build the logic behind the scenes so everything just works." 🔧🖤
 
